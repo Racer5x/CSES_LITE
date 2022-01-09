@@ -1,5 +1,5 @@
 # CSES_LITE
-CSES, but worse in every possible way!
+CSES is an online judge which allows Coders to practice algorithmic questions and solve them efficiently.
 
 Instruction to start the application:
 * Currently It works only in offline environment
